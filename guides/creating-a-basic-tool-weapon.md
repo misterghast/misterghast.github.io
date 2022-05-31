@@ -88,11 +88,3 @@ Once you have your language files, model, and texture in place, you're done. You
 
 
 Thank you for using ConfigurableArmory
-
-{% content-ref url="../reference/custom-material-reference.md" %}
-[custom-material-reference.md](../reference/custom-material-reference.md)
-{% endcontent-ref %}
-
-{% content-ref url="../reference/custom-tool-reference.md" %}
-[custom-tool-reference.md](../reference/custom-tool-reference.md)
-{% endcontent-ref %}
