@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Purpose of ConfigurableArmory](README.md)
+* [Purpose of ConfigurableArmory](index.md)
 
 ## Guides
 
